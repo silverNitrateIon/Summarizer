@@ -1,1 +1,1 @@
-from text_summarizer import summarizer
+from text_summarizer import Summarizer
